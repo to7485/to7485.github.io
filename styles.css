@@ -62,8 +62,8 @@ section h2 {
 }
 
 .skills ul li img {
-  width: 500px;
-  height: 500px;
+  width: 300px;
+  height: 300px;
   object-fit: contain; /* 이미지를 박스 안에 맞추되 비율 유지 */
   background-color: #f4f4f4; /* 여백 배경색 지정 */
   border: 1px solid #ddd;
