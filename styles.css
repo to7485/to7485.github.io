@@ -64,7 +64,7 @@ section h2 {
 .skills ul li img {
   display: block; /* 이미지를 블록 요소로 변경 */
   width: 80%; /* 부모 요소의 너비에 맞게 이미지 조정 */
-  height: auto; /* 이미지 비율 유지 */
+  height: 80%; /* 이미지 비율 유지 */
   object-fit: cover; /* 박스를 꽉 채우며 비율 유지 */
   border: 1px solid #ddd; /* 테두리 추가 */
   border-radius: 4px; /* 둥근 모서리 */
